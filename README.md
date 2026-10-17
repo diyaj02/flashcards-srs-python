@@ -239,3 +239,5 @@ When a flashcard is answered more than once within the same study day, the appli
 Using a 04:00 study-day boundary and a Redis queue keyed by study day makes the system more consistent for students who study late at night.
 
 It prevents accidental queue resets at midnight, supports repeated practice of difficult flashcards, and helps preserve the intended spaced repetition schedule.
+
+ci/cd demo: readme updated
